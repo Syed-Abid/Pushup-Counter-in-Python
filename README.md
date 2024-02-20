@@ -39,7 +39,7 @@ Contributions are welcome! If you have ideas to enhance the pushup counter or wa
 
 Questions or suggestions? Reach out to me:
 
-- **Your Name**
-- **Email:** [YourEmail@example.com](mailto:YourEmail@example.com)
+- **Syed Abid Hassan**
+- **Email:** [abidhassanjaffri31@gmail.com](mailto:abidhassanjaffri31@gmail.com)
 
 Get counting and stay fit with the Pushup Counter in Python! 🏋️‍♂️🔢
