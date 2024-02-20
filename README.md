@@ -1,6 +1,8 @@
 # Pushup Counter in Python 🏋️‍♂️🔢
 
-
+<div align="center">
+  <img src="https://t4.ftcdn.net/jpg/03/97/02/07/360_F_397020794_LXE0WLqWxcbhIf2UwXfRtLJwjw8aX5Wj.jpg" alt="Pushup Logo">
+</div>
 
 Track your fitness journey with the "Pushup Counter in Python"! 🏋️‍♂️🔢 This project uses OpenCV in Python to count pushups and includes a demonstration video for a comprehensive overview.
 
