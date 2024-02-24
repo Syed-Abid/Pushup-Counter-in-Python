@@ -1,7 +1,7 @@
 # Pushup Counter in Python 🏋️‍♂️🔢
 
 <div align="center">
-  <img src="" alt="Pushup Logo">
+  <img src="https://github.com/Syed-Abid/Pushup-Counter-in-Python/blob/main/Demo%20Video%20Thumbnail.png" alt="Pushup Logo">
 </div>
 
 Track your fitness journey with the "Pushup Counter in Python"! 🏋️‍♂️🔢 This project uses OpenCV in Python to count pushups and includes a demonstration video for a comprehensive overview.
@@ -15,16 +15,16 @@ Track your fitness journey with the "Pushup Counter in Python"! 🏋️‍♂️
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/Pushup-Counter-in-Python.git
+    git clone https://github.com/Syed-Abid/Pushup-Counter-in-Python.git
     ```
 
 2. **Run the Pushup Counter:**
-    - Explore the `SourceCode/pushup_counter.py` file to understand the implementation.
+    - Explore the `main.py` file to understand the implementation.
     - Execute the script to run the pushup counter.
 
 ## 🎥 Demonstration Video
 
-[![Pushup Counter Demo](https://path-to-your-image/pushup_counter_demo_thumbnail.png)](https://github.com/your-username/Pushup-Counter-in-Python/blob/main/Demonstration/pushup_counter_demo.mp4)
+[![Pushup Counter Demo](https://github.com/Syed-Abid/Pushup-Counter-in-Python/blob/main/Demo%20Video%20Thumbnail.png)](https://github.com/Syed-Abid/Pushup-Counter-in-Python/blob/main/Demo%20Compressed%20Video.mp4)
 
 Click on the image above to watch the demonstration video.
 
