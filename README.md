@@ -24,7 +24,11 @@ Track your fitness journey with the "Pushup Counter in Python"! 🏋️‍♂️
 
 ## 🎥 Demonstration Video
 
-[![Pushup Counter Demo](https://github.com/Syed-Abid/Pushup-Counter-in-Python/blob/main/Demo%20Video%20Thumbnail.png)](https://github.com/Syed-Abid/Pushup-Counter-in-Python/blob/main/Demo%20Compressed%20Video.mp4)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=2XFta1Gtwgk">
+    <img src="https://github.com/Syed-Abid/Pushup-Counter-in-Python/blob/main/Demo%20Video%20Thumbnail.png" alt="Demonstration Video">
+  </a>
+</p>
 
 Click on the image above to watch the demonstration video.
 
